@@ -2,5 +2,6 @@
 Simple implementation facebook api/graph 
 - clone project
 - update composer 
-- set your FACEBOOK_APP_ID and FACEBOOK_APP_SECRET in .env file(create it and copy file content from .env.example)
+- set your FACEBOOK_APP_ID and FACEBOOK_APP_SECRET in .env (and set permissions for user_photos, user_likes in Graph API Explorer)
+- set your database and priviliges in .env
 - start server

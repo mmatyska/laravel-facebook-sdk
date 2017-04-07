@@ -53,4 +53,5 @@ $app->singleton(
 */
 $app->register(SammyK\LaravelFacebookSdk\LaravelFacebookSdkServiceProvider::class);
 
+
 return $app;
